@@ -7,3 +7,5 @@ Install by cloning the repo in your Vim bundle directory, like any random Pathog
 Turn highlighting on with :AnsiEsc
 
 I can't figure out what's the license on this thing.
+
+http://www.drchip.org/astronaut/vim/index.html#ANSIESC
